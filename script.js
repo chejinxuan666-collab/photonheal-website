@@ -1,3 +1,7 @@
+/*
+  交互脚本 — 导航滚动效果、卡片展开收起、图片灯箱、粒子背景
+  修改后推送到 GitHub 自动生效
+*/
 const header = document.getElementById('header');
 const menuBtn = document.getElementById('menu-btn');
 const siteNav = document.getElementById('site-nav');
